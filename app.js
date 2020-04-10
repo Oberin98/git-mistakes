@@ -2,7 +2,8 @@
 
 
 function hello() {
-  alert("hello world!")
+  alert("hello world!");
+  alert('Hi from github')
 }
 
 function doSomething() {
